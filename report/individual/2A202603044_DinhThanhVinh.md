@@ -9,7 +9,7 @@ Dữ liệu: 12 ảnh người COCO val2017 (Lin et al., 2014) và 8 ảnh chân
 - Họ tên: Đinh Thành Vinh
 - MSSV: 2A202603044
 - Email: dinhthanhvinhnb205@gmail.com
-- Link repository: https://github.com/[Ten-GitHub-Cua-Ban]/K5-L2-DAY04-DinhThanhVinh-2A202603044-KeypointPose
+- Link repository: https://github.com/vdprogramm/5-L2-DAY04-DinhThanhVinh-2A202603044-KeypointPose.git
 - Phiên bản CVAT (Help → About): 2.82.1
 - Máy: hệ điều hành Windows · RAM 32 GB · chạy CVAT chế độ đầy đủ
 - Bộ ảnh (`src/exports/assignment.json` do `lab.py setup` tạo): có
